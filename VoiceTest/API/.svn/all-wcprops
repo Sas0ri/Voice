@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ky_ios/!svn/ver/99/trunk/KuyunTVFamily/Common/API
+END
+InteractionGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ky_ios/!svn/ver/99/trunk/KuyunTVFamily/Common/API/InteractionGetter.h
+END
+EPGGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/EPGGetter.m
+END
+KYAPIImageGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/KYAPIImageGetter.h
+END
+NoticeGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/NoticeGetter.h
+END
+KYAPIGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/KYAPIGetter.m
+END
+InteractionGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ky_ios/!svn/ver/236/trunk/KuyunTVFamily/Common/API/InteractionGetter.m
+END
+KYAPIImageGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/KYAPIImageGetter.m
+END
+NoticeGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/NoticeGetter.m
+END
+PreloadGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/PreloadGetter.h
+END
+KYAPIVerifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ky_ios/!svn/ver/158/trunk/KuyunTVFamily/Common/API/KYAPIVerifications.h
+END
+UserRankGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/UserRankGetter.h
+END
+PreloadGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/PreloadGetter.m
+END
+KYAPIVerifications.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ky_ios/!svn/ver/158/trunk/KuyunTVFamily/Common/API/KYAPIVerifications.m
+END
+UserRankGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/UserRankGetter.m
+END
+PersonalInfoGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ky_ios/!svn/ver/74/trunk/KuyunTVFamily/Common/API/PersonalInfoGetter.h
+END
+SettingsGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/SettingsGetter.h
+END
+SNSGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ky_ios/!svn/ver/74/trunk/KuyunTVFamily/Common/API/SNSGetter.h
+END
+PersonalInfoGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ky_ios/!svn/ver/74/trunk/KuyunTVFamily/Common/API/PersonalInfoGetter.m
+END
+SettingsGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/SettingsGetter.m
+END
+WeiboGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/WeiboGetter.h
+END
+ProgramGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ky_ios/!svn/ver/99/trunk/KuyunTVFamily/Common/API/ProgramGetter.h
+END
+SNSGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/SNSGetter.m
+END
+WeiboGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/WeiboGetter.m
+END
+EPGGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/EPGGetter.h
+END
+ProgramGetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ky_ios/!svn/ver/99/trunk/KuyunTVFamily/Common/API/ProgramGetter.m
+END
+KYAPIGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ky_ios/!svn/ver/49/trunk/KuyunTVFamily/Common/API/KYAPIGetter.h
+END
